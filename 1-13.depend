@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1480367281 source:d:\1-13\ckutnik.cpp
+	"CKutnik.h"
+
+1480347310 d:\1-13\ckutnik.h
+
+1480347092 source:d:\1-13\equation.cpp
+	<Cmath>
+	"CKutnik.h"
+	"Equation.h"
+
+1480347058 d:\1-13\equation.h
+	"CKutnik.h"
+
+1480367287 source:d:\1-13\main.cpp
+	<iostream>
+	"CKutnik.h"
+

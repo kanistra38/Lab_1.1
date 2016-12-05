@@ -1,4 +1,3 @@
-#include <math.h>
 #include "CKutnik.h"
 
 CKutnik::CKutnik (int n, int k)
