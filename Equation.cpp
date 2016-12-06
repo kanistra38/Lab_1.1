@@ -1,4 +1,4 @@
-#include <Cmath>
+#include <cmath>
 #include "CKutnik.h"
 #include "Equation.h"
 
